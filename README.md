@@ -1,22 +1,30 @@
-<h1 align="center">Hi, I'm Vivek Kumar 👋</h1>
-<h3 align="center">Backend Engineer — Distributed Systems & High-Scale Microservices</h3>
+<h1 align="center">Vivek Kumar</h1>
+<h3 align="center">Backend Engineer — Distributed Systems · High-Scale Microservices</h3>
+<p align="center">Building production systems that handle 10M+ requests/day at 99.9% reliability</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vivek-kumar-8b0318214"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vpwr2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/kumar_vivek"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
-  <a href="https://codeforces.com"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Throughput-10M%2B_req%2Fday-informational?style=flat" />
+  <img src="https://img.shields.io/badge/Reliability-99.9%25-informational?style=flat" />
+  <img src="https://img.shields.io/badge/DSA-2000%2B_problems-informational?style=flat" />
+  <img src="https://img.shields.io/badge/ICPC-3x_Regionalist-informational?style=flat" />
 </p>
 
 ---
 
 ### About Me
 
-- 🔧 Backend Developer at **QueueBuster**, building microservices and event-driven systems handling millions of requests a day
+- 🔧 Backend Developer at **QueueBuster** — building microservices and event-driven systems handling millions of requests a day
+- 🚀 Co-founded **CulturTap** — sole backend engineer, scaled to 5,000+ active users with a 3-person team
 - 🧠 ICPC Regionalist (3×), Codeforces Specialist, LeetCode Knight — 2,000+ problems solved across platforms
-- 🚀 Co-founded **CulturTap**, a marketplace app scaled to 5,000+ active users with a three-person team
-- 🎯 Interested in payments, e-commerce/retail, and SaaS — systems that need to handle real scale and stay reliable
-- 📫 Reach me at **vpwr2004@gmail.com**
+- 🎯 Targeting backend roles in **payments, e-commerce/retail, and SaaS**
+- 📍 Based in Noida — open to Delhi-NCR, Bengaluru, Hyderabad, Chennai, Pune, Mumbai
+- 📫 **vpwr2004@gmail.com**
 
 ---
 
@@ -52,17 +60,17 @@
 
 ### What I've Built
 
-**API Gateway** — Single entry point for all microservices at QueueBuster. Handles authentication (password, SSO, OTP, TOTP), role-based authorization, rate limiting, path-based routing, and audit logging — serving 10M+ requests/day.
+**API Gateway** — Single entry point for all QueueBuster microservices. Handles authentication (password, SSO, OTP, TOTP), RBAC, rate limiting, path-based routing, and audit logging — serving 10M+ requests/day.
 
-**Kafka-based Notification Engine** — Delivers SMS, WhatsApp, and email notifications, with separate topics and dedicated workers for critical vs. normal traffic, at 99.9% reliability under high concurrency.
+**Kafka Notification Engine** — Delivers SMS, WhatsApp, and email notifications through separate critical/normal topics with dedicated workers, at 99.9% reliability under high concurrency.
 
-**Dynamic Pricing Engine** — Supports custom pricing (markup/markdown by % or fixed amount) and slab-based discounts (e.g. 1–100 units at X% off, 101–200 at Y% off).
+**Dynamic Pricing Engine** — Custom pricing (markup/markdown by % or fixed amount) and slab-based quantity discounts.
 
-**Product Catalogue** — Products, product groups, services, and modifiers, with a classification system spanning manufacturer, brand, department, category, and subcategory.
+**Product Catalogue** — Products, product groups, services, and modifiers under a manufacturer → brand → department → category → subcategory classification system.
 
-**Billing Architecture** — Approval-based flow: a Sales Quotation is approved into a Sales Order, moves through fulfillment, and fulfillment generates the invoice.
+**Billing Architecture** — Approval-based flow: Sales Quotation → Sales Order → fulfillment → invoice.
 
-**CulturTap Genie** *(Co-founder, sole backend engineer)* — A hyperlocal marketplace app. Built geolocation-based product search across nearby shops with in-app bargaining before checkout; owned infrastructure and integrated Razorpay and Firebase. Scaled to 5,000+ active users with a three-person team.
+**CulturTap Genie** *(Co-founder, sole backend engineer)* — Hyperlocal marketplace app with geolocation-based product search across nearby shops and in-app bargaining before checkout. Owned infrastructure end-to-end and integrated Razorpay and Firebase. Scaled to 5,000+ active users with a three-person team.
 
 ---
 
@@ -77,14 +85,10 @@
 
 ---
 
-### GitHub Stats
+### Github activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumar-vivek-18&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-vivek-18&hide_border=true" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-vivek-18&layout=compact&hide_border=true" height="150" />
+  <a href="https://github.com/kumar-vivek-18?tab=repositories"><img src="https://img.shields.io/badge/View-All_Repositories-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 ---
